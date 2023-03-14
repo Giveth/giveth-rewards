@@ -1,6 +1,6 @@
 
 # GIV Rewards Distribution - round-10  - 17/07/22 to 14/08/22
-This period covers praise given between **17 July 2022 and 14 August 2022**. We allocated **58000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
+This period covers praise given between **17 July 2022 and 14 August 2022**. We allocated **116000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
 
 Out of the total rewards:
 
@@ -18,104 +18,104 @@ This post will be open to the community for review for 48 hours then submitted t
 The Rewards Distribution for this round is as follows:
 | Username                        |   Rewards in GIV |
 |:--------------------------------|-----------------:|
-| karmaticacid#1218               |       4838.45    |
-| WhyldWanderer#7002              |       3893.26    |
-| Griff (💜,💜)#8888              |       3244.25    |
-| Cotabe#4096                     |       2621.61    |
-| MoeNick#1374                    |       2070.86    |
-| Nikola Creatrix#5026            |       2017.9     |
-| divine_comedian#5493            |       1850.12    |
-| ClaraZi#5313                    |       1700.01    |
-| Amin#2164                       |       1633.98    |
-| ahmad#7204                      |       1339.42    |
-| hanners717#2022                 |       1317.68    |
-| Jake🐍#0203                     |       1238.71    |
-| mateodaza#3156                  |       1156.62    |
-| Cherik#4711                     |       1094.1     |
-| Dr. Suga#8514                   |       1082.05    |
-| Danibelle the Uno and Only#6791 |        982.14    |
-| tropicalmango#3240              |        974.113   |
-| Nicbals#2154                    |        972.892   |
-| cuidadopeligro#4788             |        960.373   |
-| Rainer#4613                     |        919.334   |
-| freshelle#9882                  |        882.982   |
-| Ramin#4479                      |        873.951   |
-| Cori#8483                       |        670.921   |
-| Carlos096#8712                  |        662.687   |
-| Melody - AFK#8503               |        649.326   |
-| MoeShehab#3487                  |        641.34    |
-| geleeroyale#3228                |        629.198   |
-| Giantkin#8403                   |        601.923   |
-| Alireza7612#3020                |        590.468   |
-| Sym#3186                        |        583.873   |
-| Rodricast#1415                  |        582.806   |
-| mohammad_ranjbar_z#2709         |        565.213   |
-| chadfi#3247                     |        446.887   |
-| paxthemax#4454                  |        431.81    |
-| Almond | oyealmond#7049         |        337.25    |
-| markop#2007                     |        331.992   |
-| Mo 🤖#0356                      |        317.925   |
-| missing username                |        315.984   |
-| miguelb#5176                    |        303.097   |
-| jessveroes                      |        300.066   |
-| missgene#7773                   |        291.755   |
-| Tosin#8012                      |        289.525   |
-| paul2#3057                      |        252.853   |
-| toraif#4775                     |        249.709   |
-| willyfox#1178                   |        247.841   |
-| tjayrush#9164                   |        245.935   |
-| sem(🌸,🐝)#0161                 |        245.782   |
-| Juankbell#7458                  |        243.018   |
-| bends#3537                      |        235.127   |
-| Yass#3392                       |        223.882   |
-| invocamanman                    |        203.564   |
-| gabi                            |        186.6     |
-| logonaut.eth                    |        184.503   |
-| dhtal#0463                      |        149.699   |
-| brodhisattva#3152               |        148.67    |
-| Terexitarius                    |        148.041   |
-| Oki - @okiave💜🐙               |        144.858   |
-| Fábio                           |        134.699   |
-| raazz                           |        131.516   |
-| Zeptimus#3359                   |        126.846   |
-| Mr.Bear🐻#3459                  |        117.545   |
-| DiogoJ                          |        117.545   |
-| kkechy#2713                     |         99.7424  |
-| Niran | Panvala#9353            |         99.7424  |
-| DMaker#2437                     |         91.4893  |
-| mesime                          |         86.4002  |
-| mrtdlgc 🐝#4912                 |         83.2362  |
-| santigs#9769                    |         82.9122  |
-| sminempepe                      |         78.1471  |
-| rb                              |         78.1471  |
-| Mango | Charged Particles       |         76.2411  |
-| JBamadeus                       |         74.9831  |
-| Tamarandom#9361                 |         70.523   |
-| RHolmes                         |         64.8049  |
-| Rohekbenitez#8753               |         59.9636  |
-| mafer_cordovas                  |         48.2797  |
-| bens44                          |         48.2797  |
-| David Baxter                    |         44.7916  |
-| bigimot                         |         44.4867  |
-| HeavyCr3am                      |         43.2096  |
-| Simone                          |         42.8856  |
-| randallpiesveloces              |         41.3036  |
-| krrisis                         |         40.0266  |
-| Pythagorean                     |         34.9375  |
-| nic                             |         34.9375  |
-| dawid#0045                      |         32.4025  |
-| Claire#1861                     |         31.7735  |
-| iviangita#3204                  |         26.6844  |
-| prophetdominic#4575             |         24.7783  |
-| VitorNunes#0090                 |         21.5953  |
-| hotl.eth                        |         19.6893  |
-| kristofer#1475                  |         15.2482  |
-| ParfaitMugisha                  |         12.6941  |
-| Lilith                          |         12.3892  |
-| Javi | Shirtum Team             |         11.4362  |
-| luizakp                         |         11.4362  |
-| Maryjaf#2478                    |         10.8072  |
-| PôpLine                         |          5.71808 |
-| 0xWildhare                      |          5.71808 |
-| Daniel-GPd                      |          3.81205 |
-| csjoanna#9143                   |          1.27704 |
+| karmaticacid#1218               |       9676.9     |
+| WhyldWanderer#7002              |       7786.51    |
+| Griff (💜,💜)#8888              |       6488.5     |
+| Cotabe#4096                     |       5243.21    |
+| MoeNick#1374                    |       4141.72    |
+| divine_comedian#5493            |       3700.25    |
+| Nikola Creatrix#5026            |       3403.83    |
+| Amin#2164                       |       3267.96    |
+| missing username                |       3159.84    |
+| ClaraZi#5313                    |       2768.06    |
+| ahmad#7204                      |       2678.84    |
+| hanners717#2022                 |       2635.37    |
+| Jake🐍#0203                     |       2477.42    |
+| Cherik#4711                     |       2188.19    |
+| Dr. Suga#8514                   |       2164.09    |
+| tropicalmango#3240              |       1948.23    |
+| Nicbals#2154                    |       1945.78    |
+| cuidadopeligro#4788             |       1920.75    |
+| Rainer#4613                     |       1838.67    |
+| freshelle#9882                  |       1765.96    |
+| Ramin#4479                      |       1747.9     |
+| mateodaza#3156                  |       1681.27    |
+| Cori#8483                       |       1341.84    |
+| Danibelle the Uno and Only#6791 |       1332.31    |
+| Carlos096#8712                  |       1325.37    |
+| Melody - AFK#8503               |       1298.65    |
+| MoeShehab#3487                  |       1282.68    |
+| geleeroyale#3228                |       1258.4     |
+| Giantkin#8403                   |       1203.85    |
+| Alireza7612#3020                |       1180.94    |
+| Sym#3186                        |       1167.75    |
+| Rodricast#1415                  |       1165.61    |
+| mohammad_ranjbar_z#2709         |       1130.43    |
+| chadfi#3247                     |        893.774   |
+| paxthemax#4454                  |        863.621   |
+| Almond | oyealmond#7049         |        674.5     |
+| markop#2007                     |        663.983   |
+| Mo 🤖#0356                      |        635.85    |
+| miguelb#5176                    |        606.194   |
+| jessveroes                      |        600.132   |
+| missgene#7773                   |        583.511   |
+| Tosin#8012                      |        579.051   |
+| paul2#3057                      |        505.707   |
+| toraif#4775                     |        499.417   |
+| willyfox#1178                   |        495.681   |
+| tjayrush#9164                   |        491.869   |
+| sem(🌸,🐝)#0161                 |        491.564   |
+| Juankbell#7458                  |        486.037   |
+| bends#3537                      |        470.255   |
+| Yass#3392                       |        447.764   |
+| invocamanman                    |        407.127   |
+| gabi                            |        373.2     |
+| logonaut.eth                    |        369.007   |
+| dhtal#0463                      |        299.399   |
+| brodhisattva#3152               |        297.34    |
+| Terexitarius                    |        296.082   |
+| Oki - @okiave💜🐙               |        289.716   |
+| Fábio                           |        269.398   |
+| raazz                           |        263.032   |
+| Zeptimus#3359                   |        253.692   |
+| Mr.Bear🐻#3459                  |        235.089   |
+| DiogoJ                          |        235.089   |
+| Niran | Panvala#9353            |        199.485   |
+| kkechy#2713                     |        199.485   |
+| DMaker#2437                     |        182.979   |
+| mesime                          |        172.8     |
+| mrtdlgc 🐝#4912                 |        166.472   |
+| santigs#9769                    |        165.824   |
+| sminempepe                      |        156.294   |
+| rb                              |        156.294   |
+| Mango | Charged Particles       |        152.482   |
+| JBamadeus                       |        149.966   |
+| Tamarandom#9361                 |        141.046   |
+| RHolmes                         |        129.61    |
+| Rohekbenitez#8753               |        119.927   |
+| bens44                          |         96.5593  |
+| mafer_cordovas                  |         96.5593  |
+| David Baxter                    |         89.5832  |
+| bigimot                         |         88.9733  |
+| HeavyCr3am                      |         86.4192  |
+| Simone                          |         85.7712  |
+| randallpiesveloces              |         82.6072  |
+| krrisis                         |         80.0531  |
+| Pythagorean                     |         69.8749  |
+| nic                             |         69.8749  |
+| dawid#0045                      |         64.8049  |
+| Claire#1861                     |         63.5469  |
+| iviangita#3204                  |         53.3687  |
+| prophetdominic#4575             |         49.5567  |
+| VitorNunes#0090                 |         43.1906  |
+| hotl.eth                        |         39.3785  |
+| kristofer#1475                  |         30.4964  |
+| ParfaitMugisha                  |         25.3883  |
+| Lilith                          |         24.7783  |
+| Javi | Shirtum Team             |         22.8723  |
+| luizakp                         |         22.8723  |
+| Maryjaf#2478                    |         21.6143  |
+| PôpLine                         |         11.4362  |
+| 0xWildhare                      |         11.4362  |
+| Daniel-GPd                      |          7.62411 |
+| csjoanna#9143                   |          2.55408 |

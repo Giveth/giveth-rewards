@@ -18,59 +18,59 @@ This post will be open to the community for review for 48 hours then submitted t
 The Rewards Distribution for this round is as follows:
 | Username                         |   Rewards in GIV |
 |:---------------------------------|-----------------:|
-| Amin#2164                        |        939.744   |
-| hannahjojo                       |        918.895   |
-| karmaticacid#1218                |        858.595   |
-| Griff (💜,💜)#8888               |        789.542   |
-| Ramin#4479                       |        765.396   |
-| MoeNick#1374                     |        752.559   |
-| markop#2007                      |        633.053   |
-| WhyldWanderer#7002               |        625.447   |
-| freshelle#9882                   |        550.179   |
-| divine_comedian#5493             |        488.727   |
-| mateodaza#3156                   |        451.103   |
-| Cherik#4711                      |        428.512   |
-| mohammad_ranjbar_z#2709          |        413.601   |
-| Mo 🤖#0356                       |        395.153   |
-| Danibelle the Uno and Only#6791  |        333.265   |
-| Rodricast#1415                   |        296.933   |
-| 🌈 🧻chair 🌈 🧻                 |        288.375   |
-| sem(🌸,🐝)#0161                  |        268.006   |
-| Carlos096#8712                   |        250.475   |
-| fabri 🐝                         |        240.694   |
-| 0xJoshua | Opolis | RainbowRolls |        240.148   |
-| invocamanman                     |        201.79    |
-| willyfox#1178                    |        198.581   |
-| Donna.Ofi                        |        154.896   |
-| eduadiez#9314                    |        140.596   |
-| hanners717#2022                  |        136.972   |
-| ClaraZi#5313                     |        130.425   |
-| Fábio                            |        129.527   |
-| Nikola Creatrix#5026             |        124.195   |
-| launchninja                      |        100.426   |
-| gabi                             |         97.2601  |
-| geleeroyale#3228                 |         86.9602  |
-| missing username                 |         79.344   |
-| r33pich33p#6906                  |         64.0541  |
-| tropicalmango#3240               |         59.8017  |
-| toraif#4775                      |         59.8017  |
-| fuscia                           |         58.5558  |
-| Almond | oyealmond#7049          |         51.0806  |
-| Dr. Suga#8514                    |         51.0806  |
-| theycallmejones                  |         43.6633  |
-| cuidadopeligro#4788              |         43.6054  |
-| crusher                          |         40.0393  |
-| thesmith | ShapeShift DAO        |         38.2054  |
-| Nicbals#2154                     |         37.376   |
-| willjgriff 🐝                    |         37.1138  |
-| MikeAnanyin[TheWayofTheDAO]      |         27.6607  |
-| Nicklas | The Way of The DAO     |         24.0148  |
-| JellyDiver                       |         15.2822  |
-| graymachine#0976                 |         13.8194  |
-| _lunahawk                        |         13.8194  |
-| anson parker | utc -4            |         13.8194  |
-| sudhithxavier                    |          9.45311 |
-| Bowen                            |          4.36633 |
-| Pythagorean                      |          3.64589 |
-| metaverde                        |          2.18317 |
-| akahux                           |          2.18317 |
+| Amin#2164                        |       1879.49    |
+| hannahjojo                       |       1837.79    |
+| karmaticacid#1218                |       1717.19    |
+| Griff (💜,💜)#8888               |       1579.08    |
+| Ramin#4479                       |       1530.79    |
+| MoeNick#1374                     |       1505.12    |
+| markop#2007                      |       1266.11    |
+| WhyldWanderer#7002               |       1250.89    |
+| freshelle#9882                   |       1100.36    |
+| divine_comedian#5493             |        977.454   |
+| Cherik#4711                      |        857.024   |
+| mohammad_ranjbar_z#2709          |        827.202   |
+| missing username                 |        793.44    |
+| Mo 🤖#0356                       |        790.306   |
+| mateodaza#3156                   |        743.518   |
+| Rodricast#1415                   |        593.865   |
+| 🌈 🧻chair 🌈 🧻                 |        576.749   |
+| sem(🌸,🐝)#0161                  |        536.011   |
+| Danibelle the Uno and Only#6791  |        507.843   |
+| Carlos096#8712                   |        500.949   |
+| fabri 🐝                         |        481.388   |
+| 0xJoshua | Opolis | RainbowRolls |        480.297   |
+| invocamanman                     |        403.58    |
+| willyfox#1178                    |        397.162   |
+| Donna.Ofi                        |        309.791   |
+| eduadiez#9314                    |        281.192   |
+| hanners717#2022                  |        273.945   |
+| Fábio                            |        259.055   |
+| launchninja                      |        200.851   |
+| gabi                             |        194.52    |
+| geleeroyale#3228                 |        173.92    |
+| r33pich33p#6906                  |        128.108   |
+| toraif#4775                      |        119.603   |
+| tropicalmango#3240               |        119.603   |
+| fuscia                           |        117.112   |
+| Almond | oyealmond#7049          |        102.161   |
+| ClaraZi#5313                     |        102.161   |
+| Dr. Suga#8514                    |        102.161   |
+| Nikola Creatrix#5026             |         89.7025  |
+| theycallmejones                  |         87.3267  |
+| cuidadopeligro#4788              |         87.2108  |
+| crusher                          |         80.0786  |
+| thesmith | ShapeShift DAO        |         76.4108  |
+| Nicbals#2154                     |         74.7521  |
+| willjgriff 🐝                    |         74.2277  |
+| MikeAnanyin[TheWayofTheDAO]      |         55.3214  |
+| Nicklas | The Way of The DAO     |         48.0297  |
+| JellyDiver                       |         30.5643  |
+| graymachine#0976                 |         27.6389  |
+| _lunahawk                        |         27.6389  |
+| anson parker | utc -4            |         27.6389  |
+| sudhithxavier                    |         18.9062  |
+| Bowen                            |          8.73267 |
+| Pythagorean                      |          7.29178 |
+| metaverde                        |          4.36633 |
+| akahux                           |          4.36633 |

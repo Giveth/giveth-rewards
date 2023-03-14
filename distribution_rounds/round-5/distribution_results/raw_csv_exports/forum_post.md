@@ -1,6 +1,6 @@
 
 # GIV Rewards Distribution - round-5  - 16/02/22 to 14/03/22
-This period covers praise given between **16 February 2022 and 14 March 2022**. We allocated **58000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
+This period covers praise given between **16 February 2022 and 14 March 2022**. We allocated **116000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
 
 Out of the total rewards:
 
@@ -18,99 +18,99 @@ This post will be open to the community for review for 48 hours then submitted t
 The Rewards Distribution for this round is as follows:
 | Username                        |   Rewards in GIV |
 |:--------------------------------|-----------------:|
-| Griff (💜,💜)#8888              |       4455.28    |
-| karmaticacid#1218               |       3580.88    |
-| WhyldWanderer#7002              |       3252.24    |
-| mateodaza#3156                  |       2631.48    |
-| Carlos096#8712                  |       2057.84    |
-| willyfox#1178                   |       1902.37    |
-| hanners717#2022                 |       1272.35    |
-| MoeNick#1374                    |       1249.15    |
-| divine_comedian#5493            |       1237.33    |
-| Ramin#4479                      |       1204.84    |
-| Amin#2164                       |       1168.4     |
-| Cherik#4711                     |       1099.17    |
-| mohammad_ranjbar_z#2709         |       1040.78    |
-| ahmad#7204                      |       1033.74    |
-| freshelle#9882                  |        772.715   |
-| pKrepe                          |        755.137   |
-| ReForest                        |        734.523   |
-| Nikola Creatrix#5026            |        629.975   |
-| Mo 🤖#0356                      |        627.419   |
-| ClaraZi#5313                    |        600.651   |
-| Rodricast#1415                  |        590.173   |
-| Melody - AFK#8503               |        536.496   |
-| Dr. Suga#8514                   |        533.09    |
-| Danibelle the Uno and Only#6791 |        501.74    |
-| GBeast#8884                     |        470.896   |
-| paxthemax#4454                  |        464.159   |
-| Jahanzaib                       |        414.063   |
-| markop#2007                     |        372.885   |
-| Almond | oyealmond#7049         |        367.449   |
-| Rainer#4613                     |        298.994   |
-| cuidadopeligro#4788             |        295.526   |
-| bends#3537                      |        292.582   |
-| fuscia                          |        263.186   |
-| chuygarcia.eth                  |        248.723   |
-| Zeptimus#3359                   |        247.573   |
-| missing username                |        244.992   |
-| geleeroyale#3228                |        206.486   |
-| CutThePlastic                   |        183.675   |
-| chadfi#3247                     |        176.987   |
-| Tosin#8012                      |        168.045   |
-| Niran | Panvala#9353            |        148.608   |
-| Jack                            |        124.913   |
-| Sym#3186                        |        122.734   |
-| Oki - @okiave💜🐙               |        110.636   |
-| missgene#7773                   |        110.059   |
-| mrtdlgc 🐝#4912                 |         98.5125  |
-| ezetec                          |         85.1621  |
-| Bowen                           |         83.4839  |
-| !              Rev              |         81.8308  |
-| graceless                       |         80.0023  |
-| decentralized J                 |         79.326   |
-| SkmMlk                          |         76.3954  |
-| Ben Sanoff                      |         75.143   |
-| 0xsantasimp                     |         74.3165  |
-| Pierce                          |         72.7385  |
-| Giantkin#8403                   |         62.6192  |
-| usamaahmed#9991                 |         57.6097  |
-| willjgriff 🐝                   |         56.7831  |
-| tjayrush#9164                   |         56.0317  |
-| HBesso31🐙#4560                 |         54.2783  |
-| lanitrock                       |         53.4267  |
-| hannahjojo                      |         52.6001  |
-| vladhzc#0420                    |         52.6001  |
-| gabritox                        |         50.0954  |
-| liviade                         |         50.0954  |
-| AlexShelpin                     |         49.2437  |
-| Mettodo#7010                    |         46.7891  |
-| ParfaitMugisha                  |         45.9374  |
-| krrisis                         |         39.2497  |
-| brian_                          |         39.2247  |
-| anna-marie                      |         35.0667  |
-| MoeShehab#3487                  |         33.4136  |
-| gemthomo                        |         28.379   |
-| Yineisy Mota                    |         28.379   |
-| Tamarandom#9361                 |         26.7259  |
-| Jonathan Villafuerte            |         26.7008  |
-| st4rgard3n                      |         25.8743  |
-| lanski#3094                     |         25.0477  |
-| catarina                        |         24.2211  |
-| Jeremy&TheGospelOfChange        |         22.5429  |
-| solarmkd#0718                   |         21.7163  |
-| Cotabe#4096                     |         20.0632  |
-| MS                              |         18.3599  |
-| Joshua Poddoku                  |         16.6818  |
-| Elizardwizzard                  |         15.8552  |
-| Pythagorean                     |         14.177   |
-| andythegreenie                  |         11.6973  |
-| vincenzospaghetti               |         11.6973  |
-| miguelb#5176                    |         11.6722  |
-| David Burt                      |          9.1925  |
-| Guru Anansi                     |          9.1925  |
-| Annn3                           |          7.5143  |
-| ccampos6                        |          4.18296 |
-| Nic Laz                         |          4.18296 |
-| Sinjun                          |          2.50477 |
-| Rohit Malekar#7021              |          2.50477 |
+| Griff (💜,💜)#8888              |       8910.56    |
+| karmaticacid#1218               |       7161.77    |
+| WhyldWanderer#7002              |       6504.49    |
+| mateodaza#3156                  |       4772.99    |
+| Carlos096#8712                  |       4115.68    |
+| willyfox#1178                   |       3804.74    |
+| hanners717#2022                 |       2544.71    |
+| MoeNick#1374                    |       2498.31    |
+| divine_comedian#5493            |       2474.65    |
+| missing username                |       2449.92    |
+| Ramin#4479                      |       2409.68    |
+| Amin#2164                       |       2336.8     |
+| Cherik#4711                     |       2198.33    |
+| mohammad_ranjbar_z#2709         |       2081.56    |
+| ahmad#7204                      |       2067.49    |
+| freshelle#9882                  |       1545.43    |
+| pKrepe                          |       1510.27    |
+| ReForest                        |       1469.05    |
+| Mo 🤖#0356                      |       1254.84    |
+| Rodricast#1415                  |       1180.35    |
+| Melody - AFK#8503               |       1072.99    |
+| Dr. Suga#8514                   |       1066.18    |
+| GBeast#8884                     |        941.793   |
+| paxthemax#4454                  |        928.317   |
+| Jahanzaib                       |        828.126   |
+| Nikola Creatrix#5026            |        769.966   |
+| markop#2007                     |        745.77    |
+| Almond | oyealmond#7049         |        734.899   |
+| ClaraZi#5313                    |        711.318   |
+| Rainer#4613                     |        597.988   |
+| cuidadopeligro#4788             |        591.052   |
+| bends#3537                      |        585.164   |
+| fuscia                          |        526.371   |
+| Danibelle the Uno and Only#6791 |        513.495   |
+| chuygarcia.eth                  |        497.447   |
+| Zeptimus#3359                   |        495.146   |
+| geleeroyale#3228                |        412.972   |
+| CutThePlastic                   |        367.349   |
+| chadfi#3247                     |        353.974   |
+| Tosin#8012                      |        336.09    |
+| Niran | Panvala#9353            |        297.216   |
+| Jack                            |        249.826   |
+| Sym#3186                        |        245.467   |
+| Oki - @okiave💜🐙               |        221.271   |
+| missgene#7773                   |        220.119   |
+| mrtdlgc 🐝#4912                 |        197.025   |
+| ezetec                          |        170.324   |
+| Bowen                           |        166.968   |
+| !              Rev              |        163.662   |
+| graceless                       |        160.005   |
+| decentralized J                 |        158.652   |
+| SkmMlk                          |        152.791   |
+| Ben Sanoff                      |        150.286   |
+| 0xsantasimp                     |        148.633   |
+| Pierce                          |        145.477   |
+| Giantkin#8403                   |        125.238   |
+| usamaahmed#9991                 |        115.219   |
+| willjgriff 🐝                   |        113.566   |
+| tjayrush#9164                   |        112.063   |
+| HBesso31🐙#4560                 |        108.557   |
+| lanitrock                       |        106.853   |
+| vladhzc#0420                    |        105.2     |
+| hannahjojo                      |        105.2     |
+| liviade                         |        100.191   |
+| gabritox                        |        100.191   |
+| AlexShelpin                     |         98.4875  |
+| Mettodo#7010                    |         93.5781  |
+| ParfaitMugisha                  |         91.8749  |
+| krrisis                         |         78.4994  |
+| brian_                          |         78.4493  |
+| anna-marie                      |         70.1335  |
+| MoeShehab#3487                  |         66.8272  |
+| gemthomo                        |         56.758   |
+| Yineisy Mota                    |         56.758   |
+| Tamarandom#9361                 |         53.4517  |
+| Jonathan Villafuerte            |         53.4016  |
+| st4rgard3n                      |         51.7485  |
+| lanski#3094                     |         50.0954  |
+| catarina                        |         48.4422  |
+| Jeremy&TheGospelOfChange        |         45.0858  |
+| solarmkd#0718                   |         43.4327  |
+| Cotabe#4096                     |         40.1264  |
+| MS                              |         36.7199  |
+| Joshua Poddoku                  |         33.3635  |
+| Elizardwizzard                  |         31.7104  |
+| Pythagorean                     |         28.354   |
+| vincenzospaghetti               |         23.3945  |
+| andythegreenie                  |         23.3945  |
+| miguelb#5176                    |         23.3444  |
+| David Burt                      |         18.385   |
+| Guru Anansi                     |         18.385   |
+| Annn3                           |         15.0286  |
+| ccampos6                        |          8.36592 |
+| Nic Laz                         |          8.36592 |
+| Rohit Malekar#7021              |          5.00954 |
+| Sinjun                          |          5.00954 |
