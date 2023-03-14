@@ -1,6 +1,6 @@
 
 # GIV Rewards Distribution - round-13  - 16/10/22 to 14/11/22
-This period covers praise given between **16 October 2022 and 14 November 2022**. We allocated **58000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
+This period covers praise given between **16 October 2022 and 14 November 2022**. We allocated **116000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
 
 Out of the total rewards:
 
@@ -18,90 +18,90 @@ This post will be open to the community for review for 48 hours then submitted t
 The Rewards Distribution for this round is as follows:
 | Username                              |   Rewards in GIV |
 |:--------------------------------------|-----------------:|
-| Almond | oyealmond#7049               |       3256.35    |
-| Griff (💜,💜)#8888                    |       2809.26    |
-| karmaticacid#1218                     |       2546.47    |
-| MoeNick#1374                          |       1959.08    |
-| Amin#2164                             |       1848.97    |
-| Cori#8483                             |       1765.65    |
-| cuidadopeligro#4788                   |       1702.48    |
-| WhyldWanderer#7002                    |       1679.71    |
-| geleeroyale#3228                      |       1656.93    |
-| Nikola Creatrix#5026                  |       1516.65    |
-| divine_comedian#5493                  |       1252.13    |
-| ahmad#7204                            |       1240.17    |
-| mateodaza#3156                        |       1162.17    |
-| ClaraZi#5313                          |       1022.14    |
-| hanners717#2022                       |        982.6     |
-| MoeShehab#3487                        |        979.837   |
-| Carlos096#8712                        |        920.671   |
-| Danibelle the Uno and Only#6791       |        829.605   |
-| mohammad_ranjbar_z#2709               |        770.311   |
-| Cherik#4711                           |        763.41    |
-| Cotabe#4096                           |        687.036   |
-| Ramin#4479                            |        630.148   |
-| tropicalmango#3240                    |        571.645   |
-| willyfox#1178                         |        557.047   |
-| sem(🌸,🐝)#0161                       |        529.665   |
-| Maryjaf#2478                          |        481.403   |
-| brichis#6933                          |        479.421   |
-| Giantkin#8403                         |        443.47    |
-| freshelle#9882                        |        405.869   |
-| Nicbals#2154                          |        392.598   |
-| Tosin#8012                            |        387.976   |
-| Yass#3392                             |        367.229   |
-| missgene#7773                         |        341.505   |
-| santigs#9769                          |        321.931   |
-| Mo 🤖#0356                            |        320.714   |
-| Jake🐍#0203                           |        305.231   |
-| eduadiez#9314                         |        293.752   |
-| Dr. Suga#8514                         |        280.216   |
-| missing username                      |        251.256   |
-| Steffan | SteeTweets#9260             |        223.173   |
-| Alireza7612#3020                      |        219.302   |
-| Kurt_M#7842                           |        217.555   |
-| Sym#3186                              |        217.488   |
-| Josh TheStandard.io Vaultoro.com#8888 |        208.641   |
-| Rodricast#1415                        |        171.792   |
-| kristofer#1475                        |        165.422   |
-| dawid#0045                            |        159.251   |
-| tjayrush#9164                         |        146.71    |
-| Anthony Leutenegger#0877              |        112.803   |
-| markop#2007                           |        108.379   |
-| chadfi#3247                           |        100.748   |
-| lanski#3094                           |         96.5902  |
-| GBeast#8884                           |         84.0492  |
-| Rainer#4613                           |         75.2019  |
-| bends#3537                            |         69.6724  |
-| paxthemax#4454                        |         56.0254  |
-| Kris#8703                             |         54.1896  |
-| Nats | Cryptomurals 🎨#6807           |         43.1305  |
-| csjoanna#9143                         |         41.6044  |
-| melvera|DoinGud#6237                  |         39.9234  |
-| Andrewk                               |         39.5916  |
-| Nax#4365                              |         34.6592  |
-| vladhzc#0420                          |         32.4474  |
-| miguelb#5176                          |         32.0714  |
-| Madison#9398                          |         30.9655  |
-| toraif#4775                           |         30.2135  |
-| paul2#3057                            |         28.7537  |
-| Rohekbenitez#8753                     |         28.7537  |
-| chaselb#8959                          |         28.7537  |
-| Claire#1861                           |         25.0599  |
-| Melody - AFK#8503                     |         23.2241  |
-| RachaelMalachy#5837                   |         22.8481  |
-| Fábio                                 |         22.8481  |
-| DMaker#2437                           |         21.3883  |
-| joseacabrerav#5399                    |         19.1765  |
-| iamdonho#5462                         |         17.6946  |
-| Tomketal#9305                         |         15.4828  |
-| brodhisattva#3152                     |         12.165   |
-| dhtal#0463                            |         11.789   |
-| Maxwe11#7157                          |         11.789   |
-| Crypto Earthling#3627                 |         10.3292  |
-| prophetdominic#4575                   |         10.3292  |
-| J Olwenyi#1416                        |         10.3292  |
-| helpersfoundation#4702                |          8.84729 |
-| Justin_Solem#9411                     |          8.84729 |
-| CharityNFTproject#0812                |          6.63546 |
-| Mr. 97#0605                           |          6.63546 |
+| Almond | oyealmond#7049               |        6512.71   |
+| Griff (💜,💜)#8888                    |        5618.51   |
+| karmaticacid#1218                     |        5092.94   |
+| MoeNick#1374                          |        3918.15   |
+| Amin#2164                             |        3697.94   |
+| Cori#8483                             |        3531.31   |
+| cuidadopeligro#4788                   |        3404.97   |
+| WhyldWanderer#7002                    |        3359.42   |
+| geleeroyale#3228                      |        3313.86   |
+| Nikola Creatrix#5026                  |        2530.79   |
+| missing username                      |        2512.56   |
+| divine_comedian#5493                  |        2504.27   |
+| ahmad#7204                            |        2480.34   |
+| hanners717#2022                       |        1965.2    |
+| MoeShehab#3487                        |        1959.67   |
+| Carlos096#8712                        |        1841.34   |
+| mateodaza#3156                        |        1821.83   |
+| ClaraZi#5313                          |        1541.76   |
+| mohammad_ranjbar_z#2709               |        1540.62   |
+| Cherik#4711                           |        1526.82   |
+| Cotabe#4096                           |        1374.07   |
+| Ramin#4479                            |        1260.3    |
+| Danibelle the Uno and Only#6791       |        1156.7    |
+| tropicalmango#3240                    |        1143.29   |
+| willyfox#1178                         |        1114.09   |
+| sem(🌸,🐝)#0161                       |        1059.33   |
+| Maryjaf#2478                          |         962.806  |
+| brichis#6933                          |         958.843  |
+| Giantkin#8403                         |         886.94   |
+| freshelle#9882                        |         811.739  |
+| Nicbals#2154                          |         785.197  |
+| Tosin#8012                            |         775.951  |
+| Yass#3392                             |         734.457  |
+| missgene#7773                         |         683.011  |
+| santigs#9769                          |         643.861  |
+| Mo 🤖#0356                            |         641.428  |
+| Jake🐍#0203                           |         610.463  |
+| eduadiez#9314                         |         587.504  |
+| Dr. Suga#8514                         |         560.431  |
+| Steffan | SteeTweets#9260             |         446.346  |
+| Alireza7612#3020                      |         438.604  |
+| Kurt_M#7842                           |         435.11   |
+| Sym#3186                              |         434.977  |
+| Josh TheStandard.io Vaultoro.com#8888 |         417.282  |
+| Rodricast#1415                        |         343.584  |
+| kristofer#1475                        |         330.844  |
+| dawid#0045                            |         318.502  |
+| tjayrush#9164                         |         293.42   |
+| Anthony Leutenegger#0877              |         225.606  |
+| markop#2007                           |         216.759  |
+| chadfi#3247                           |         201.497  |
+| lanski#3094                           |         193.18   |
+| GBeast#8884                           |         168.098  |
+| Rainer#4613                           |         150.404  |
+| bends#3537                            |         139.345  |
+| paxthemax#4454                        |         112.051  |
+| Kris#8703                             |         108.379  |
+| Nats | Cryptomurals 🎨#6807           |          86.261  |
+| csjoanna#9143                         |          83.2087 |
+| melvera|DoinGud#6237                  |          79.8468 |
+| Andrewk                               |          79.1832 |
+| Nax#4365                              |          69.3185 |
+| vladhzc#0420                          |          64.8948 |
+| miguelb#5176                          |          64.1428 |
+| Madison#9398                          |          61.931  |
+| toraif#4775                           |          60.427  |
+| chaselb#8959                          |          57.5074 |
+| paul2#3057                            |          57.5074 |
+| Rohekbenitez#8753                     |          57.5074 |
+| Claire#1861                           |          50.1199 |
+| Melody - AFK#8503                     |          46.4483 |
+| Fábio                                 |          45.6962 |
+| RachaelMalachy#5837                   |          45.6962 |
+| DMaker#2437                           |          42.7766 |
+| joseacabrerav#5399                    |          38.353  |
+| iamdonho#5462                         |          35.3891 |
+| Tomketal#9305                         |          30.9655 |
+| brodhisattva#3152                     |          24.33   |
+| dhtal#0463                            |          23.578  |
+| Maxwe11#7157                          |          23.578  |
+| Crypto Earthling#3627                 |          20.6584 |
+| prophetdominic#4575                   |          20.6584 |
+| J Olwenyi#1416                        |          20.6584 |
+| helpersfoundation#4702                |          17.6946 |
+| Justin_Solem#9411                     |          17.6946 |
+| CharityNFTproject#0812                |          13.2709 |
+| Mr. 97#0605                           |          13.2709 |

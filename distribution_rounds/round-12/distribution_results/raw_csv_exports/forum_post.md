@@ -1,6 +1,6 @@
 
 # GIV Rewards Distribution - round-12  - 15/09/22 to 14/10/22
-This period covers praise given between **15 September 2022 and 14 October 2022**. We allocated **58000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
+This period covers praise given between **15 September 2022 and 14 October 2022**. We allocated **116000.0** GIV tokens for rewards, with a **100:0** split between Praise and Sourcecred. Some praise accounts still haven’t been activated so the total amount below will be less than what we set aside to distribute.
 
 Out of the total rewards:
 
@@ -18,95 +18,95 @@ This post will be open to the community for review for 48 hours then submitted t
 The Rewards Distribution for this round is as follows:
 | Username                              |   Rewards in GIV |
 |:--------------------------------------|-----------------:|
-| divine_comedian#5493                  |       3092.75    |
-| Almond | oyealmond#7049               |       2258.77    |
-| WhyldWanderer#7002                    |       2242.97    |
-| Amin#2164                             |       2048.88    |
-| Cotabe#4096                           |       1736.89    |
-| karmaticacid#1218                     |       1678.55    |
-| Cherik#4711                           |       1554.47    |
-| geleeroyale#3228                      |       1486.06    |
-| ClaraZi#5313                          |       1419.65    |
-| ahmad#7204                            |       1378.33    |
-| cuidadopeligro#4788                   |       1276.86    |
-| MoeNick#1374                          |       1130.17    |
-| mateodaza#3156                        |       1028.06    |
-| Nikola Creatrix#5026                  |       1009.87    |
-| Cori#8483                             |       1005.36    |
-| hanners717#2022                       |        873.758   |
-| Griff (💜,💜)#8888                    |        758.614   |
-| kristofer#1475                        |        747.415   |
-| Maryjaf#2478                          |        709.545   |
-| Carlos096#8712                        |        700.392   |
-| Alireza7612#3020                      |        672.285   |
-| freshelle#9882                        |        665.475   |
-| Jake🐍#0203                           |        656.618   |
-| tropicalmango#3240                    |        643.43    |
-| Kurt_M#7842                           |        633.313   |
-| mohammad_ranjbar_z#2709               |        574.993   |
-| Rodricast#1415                        |        566.51    |
-| Danibelle the Uno and Only#6791       |        520.498   |
-| Yass#3392                             |        489.472   |
-| MoeShehab#3487                        |        485.929   |
-| miguelb#5176                          |        483.532   |
-| Ramin#4479                            |        455.125   |
-| Nicbals#2154                          |        422.55    |
-| willyfox#1178                         |        422.53    |
-| Dr. Suga#8514                         |        379.209   |
-| brichis#6933                          |        318.313   |
-| missing username                      |        243.6     |
-| Mo 🤖#0356                            |        223.36    |
-| dhtal#0463                            |        218.991   |
-| Josh TheStandard.io Vaultoro.com#8888 |        209.445   |
-| Bowen                                 |        178.798   |
-| Tosin#8012                            |        176.161   |
-| Anna 🐙🦊#1854                        |        156.813   |
-| dan13ram#7722                         |        156.025   |
-| Catalyst                              |        154.431   |
-| markop#2007                           |        154.195   |
-| HBesso31🐙#4560                       |        148.999   |
-| RachaelMalachy#5837                   |        139.63    |
-| Giantkin#8403                         |        139.118   |
-| helpersfoundation#4702                |        122.624   |
-| npoore                                |        121.384   |
-| santigs#9769                          |        116.798   |
-| paxthemax#4454                        |         91.1904  |
-| chadfi#3247                           |         79.8531  |
-| missgene#7773                         |         72.1965  |
-| okekechidi#9269                       |         66.9215  |
-| Sym#3186                              |         64.9532  |
-| trinatam#2224                         |         63.7722  |
-| tjayrush#9164                         |         63.6345  |
-| Fábio                                 |         58.3988  |
-| sem(🌸,🐝)#0161                       |         53.1435  |
-| VitorNunes#0090                       |         53.1435  |
-| toraif#4775                           |         51.8248  |
-| Rohekbenitez#8753                     |         51.8248  |
-| elessar.eth                           |         49.8565  |
-| dkla75#1053                           |         46.5892  |
-| cheo0202                              |         43.9714  |
-| fuscia                                |         43.2825  |
-| TinaT                                 |         41.9834  |
-| aaronp#7699                           |         40.0348  |
-| dawid#0045                            |         40.0348  |
-| jessveroes                            |         39.3656  |
-| Sen                                   |         29.5242  |
-| ParfaitMugisha                        |         28.8747  |
-| kkechy#2713                           |         28.2054  |
-| Nastya#9039                           |         22.9698  |
-| James Bradach#9134                    |         22.9698  |
-| cataveneno                            |         20.2142  |
-| bigimot                               |         18.3837  |
-| prophetdominic#4575                   |         15.0967  |
-| king90⚾🥎                            |         12.4592  |
-| Zyb                                   |         11.1601  |
-| sarahmichelle.eth                     |         11.1601  |
-| raazz                                 |         11.1601  |
-| J Olwenyi#1416                        |         11.1601  |
-| mcb2001                               |          9.19186 |
-| BiancaGadelha#2667                    |          9.19186 |
-| Rainer#4613                           |          7.87312 |
-| Rod Mamin[LunCo.Space, Thailand]#4213 |          7.22358 |
-| acidlazzer#5796                       |          7.22358 |
-| kirch#5936                            |          7.22358 |
-| Claire#1861                           |          5.25531 |
+| divine_comedian#5493                  |        6185.5    |
+| Almond | oyealmond#7049               |        4517.54   |
+| WhyldWanderer#7002                    |        4485.94   |
+| Amin#2164                             |        4097.76   |
+| Cotabe#4096                           |        3473.78   |
+| karmaticacid#1218                     |        3357.1    |
+| Cherik#4711                           |        3108.94   |
+| geleeroyale#3228                      |        2972.13   |
+| ahmad#7204                            |        2756.65   |
+| cuidadopeligro#4788                   |        2553.71   |
+| missing username                      |        2436      |
+| ClaraZi#5313                          |        2352.11   |
+| MoeNick#1374                          |        2260.33   |
+| Cori#8483                             |        2010.72   |
+| hanners717#2022                       |        1747.52   |
+| mateodaza#3156                        |        1568.92   |
+| Nikola Creatrix#5026                  |        1532.54   |
+| Griff (💜,💜)#8888                    |        1517.23   |
+| kristofer#1475                        |        1494.83   |
+| Maryjaf#2478                          |        1419.09   |
+| Carlos096#8712                        |        1400.78   |
+| Alireza7612#3020                      |        1344.57   |
+| freshelle#9882                        |        1330.95   |
+| Jake🐍#0203                           |        1313.24   |
+| tropicalmango#3240                    |        1286.86   |
+| Kurt_M#7842                           |        1266.63   |
+| mohammad_ranjbar_z#2709               |        1149.99   |
+| Rodricast#1415                        |        1133.02   |
+| Yass#3392                             |         978.943  |
+| MoeShehab#3487                        |         971.858  |
+| miguelb#5176                          |         967.064  |
+| Ramin#4479                            |         910.25   |
+| Nicbals#2154                          |         845.1    |
+| willyfox#1178                         |         845.061  |
+| Dr. Suga#8514                         |         758.417  |
+| brichis#6933                          |         636.625  |
+| Danibelle the Uno and Only#6791       |         553.795  |
+| Mo 🤖#0356                            |         446.721  |
+| dhtal#0463                            |         437.981  |
+| Josh TheStandard.io Vaultoro.com#8888 |         418.889  |
+| Bowen                                 |         357.597  |
+| Tosin#8012                            |         352.322  |
+| Anna 🐙🦊#1854                        |         313.626  |
+| dan13ram#7722                         |         312.051  |
+| Catalyst                              |         308.862  |
+| markop#2007                           |         308.39   |
+| HBesso31🐙#4560                       |         297.997  |
+| RachaelMalachy#5837                   |         279.259  |
+| Giantkin#8403                         |         278.236  |
+| helpersfoundation#4702                |         245.248  |
+| npoore                                |         242.768  |
+| santigs#9769                          |         233.595  |
+| paxthemax#4454                        |         182.381  |
+| chadfi#3247                           |         159.706  |
+| missgene#7773                         |         144.393  |
+| okekechidi#9269                       |         133.843  |
+| Sym#3186                              |         129.906  |
+| trinatam#2224                         |         127.544  |
+| tjayrush#9164                         |         127.269  |
+| Fábio                                 |         116.798  |
+| VitorNunes#0090                       |         106.287  |
+| sem(🌸,🐝)#0161                       |         106.287  |
+| toraif#4775                           |         103.65   |
+| Rohekbenitez#8753                     |         103.65   |
+| elessar.eth                           |          99.713  |
+| dkla75#1053                           |          93.1783 |
+| cheo0202                              |          87.9427 |
+| fuscia                                |          86.5649 |
+| TinaT                                 |          83.9668 |
+| aaronp#7699                           |          80.0696 |
+| dawid#0045                            |          80.0696 |
+| jessveroes                            |          78.7312 |
+| Sen                                   |          59.0484 |
+| ParfaitMugisha                        |          57.7493 |
+| kkechy#2713                           |          56.4109 |
+| James Bradach#9134                    |          45.9396 |
+| Nastya#9039                           |          45.9396 |
+| cataveneno                            |          40.4285 |
+| bigimot                               |          36.7675 |
+| prophetdominic#4575                   |          30.1934 |
+| king90⚾🥎                            |          24.9184 |
+| Zyb                                   |          22.3203 |
+| sarahmichelle.eth                     |          22.3203 |
+| raazz                                 |          22.3203 |
+| J Olwenyi#1416                        |          22.3203 |
+| BiancaGadelha#2667                    |          18.3837 |
+| mcb2001                               |          18.3837 |
+| Rainer#4613                           |          15.7462 |
+| acidlazzer#5796                       |          14.4472 |
+| kirch#5936                            |          14.4472 |
+| Rod Mamin[LunCo.Space, Thailand]#4213 |          14.4472 |
+| Claire#1861                           |          10.5106 |
