@@ -15,10 +15,10 @@
         "token_address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98"
       },
       "token_reward_percentages": {
-        "contributor_rewards": 0.8,
-        "quantifier_rewards": 0.2,
-        "rewardboard_rewards": 0,
-        "ceiling_cutoff": 400
+        "contributor_rewards": 0.9,
+        "quantifier_rewards": 0.07,
+        "rewardboard_rewards": 0.03,
+        "ceiling_cutoff": 750
       },
       "quantification_settings": {
         "number_of_quantifiers_per_praise_receiver": 3,
